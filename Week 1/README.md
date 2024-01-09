@@ -1,9 +1,23 @@
-WEEK -1 project (EXCEL) --- Bike Buyers Dataset (Excel Dashboard)
+# Week 1 Project (Excel) - Bike Buyers Dataset (Excel Dashboard)
 
-Dataset details --- 
-This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used to build the dashboard in MS Excel. There are some NA (Null / Empty) values injected in the dataset
+## Dataset Details
+The dataset contains information on 1000 users with diverse backgrounds and their bike purchasing behavior. It's suitable for building a dashboard using MS Excel. Some NA (Null/Empty) values have been included in the dataset.
 
-Columns present --- ● ID ● Marital Status ● Gender ● Income ● Children ● Education ● Occupation ● Home Owner ● Cars ● Commute Distance ● Region ● Age ● Purchased Bike
+### Columns Present
+- **ID**
+- **Marital Status**
+- **Gender**
+- **Income**
+- **Children**
+- **Education**
+- **Occupation**
+- **Home Owner**
+- **Cars**
+- **Commute Distance**
+- **Region**
+- **Age**
+- **Purchased Bike**
 
-Treatments done on the dataset --- This dataset had gone through Data Cleaning, Exploration, and Visualization. Finally a dashboard had been built based on the requirements
+## Dataset Treatments
+The dataset underwent Data Cleaning, Exploration, and Visualization processes. Subsequently, a dashboard was created to fulfill specific requirements.
 
