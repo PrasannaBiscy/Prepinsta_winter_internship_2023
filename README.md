@@ -1,7 +1,7 @@
 # Data Analytics Internship at PrepInsta
 
 ## Overview
-I have completed a dynamic Data Analytics Internship at PrepInsta from December 2023 to January 2024. This intensive internship significantly enhanced my analytical skills and provided a practical platform to apply various data analysis techniques and methodologies.
+Iam pursuing a dynamic Data Analytics Internship at PrepInsta from December 2023 to January 2024. This intensive internship significantly enhanced my analytical skills and provided a practical platform to apply various data analysis techniques and methodologies.
 
 ## Internship Details
 - **Organization**: PrepInsta
