@@ -1,2 +1,2 @@
-TASK 1 & 2 Overview : Python project using Numpy & Pandas
+TASK 1 & 2 Overview : Python project using Numpy & Pandas libraries
 
